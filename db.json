@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Выучить Angular",
+      "isСompleted": false
+    },
+    {
+      "id": 2,
+      "task": "Выучить Typescript",
+      "isСompleted": true
+    },
+    {
+      "id": 3,
+      "task": "Покормить кошку",
+      "isСompleted": false
+    },
+    {
+      "id": 4,
+      "task": "Почитать Habr",
+      "isСompleted": true
+    }
+  ]
+}
